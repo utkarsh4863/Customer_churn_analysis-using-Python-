@@ -59,7 +59,6 @@ These visuals highlight clear churn behavior patterns and opportunities for stra
 | Contract Type | Month-to-month contracts have highest churn | Offer incentives for annual/multi-year plans |
 | Fiber Optic Service | Highest churn among service types | Review pricing & service reliability |
 | Customer Tenure | New customers churn more | Strengthen onboarding & engagement programs |
-| Value-Added Services | Absence increases churn | Cross-sell bundles like security & support |
 | Senior Customers | Higher churn rate | Introduce senior-friendly assistance plans |
 
 ---
@@ -99,4 +98,3 @@ By focusing on service reliability, long-term engagement, and personalized offer
 ### 📘 **Author**
 **Utkarsh Kashyap
 
-*(Feel free to connect or fork this repository to build churn prediction models or deploy dashboards.)*
